@@ -35,12 +35,12 @@ https://github.com/BhavikWadhwa?tab=repositories
 
 ### Tech Stack
 
-**Languages** — Python, JavaScript, SQL  
-**Machine Learning** — pandas, NumPy, scikit-learn  
-**Backend** — FastAPI, REST APIs  
-**Frontend** — React.js, Godot UI  
-**Systems** — Linux, Docker, Git  
-**Cloud & DevOps** — Azure fundamentals (learning), CI/CD basics  
+**Languages**: Python, JavaScript, SQL  
+**Machine Learning**: pandas, NumPy, scikit-learn  
+**Backend**: FastAPI, REST APIs  
+**Frontend**: React.js, Godot UI  
+**Systems**: Linux, Docker, Git  
+**Cloud & DevOps**: Azure fundamentals (learning), CI/CD basics  
 
 
 **Languages**
