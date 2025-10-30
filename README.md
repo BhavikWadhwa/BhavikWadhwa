@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Bhavik — Developer & AI Enthusiast</h2>
-## About Me
+About Me
 CIS student @ University of the Fraser Valley | Dean’s List  
 Machine Learning enthusiast — inspired by real sports performance & live analytics  
 Building a Raspberry Pi voice assistant (Jarvis) from scratch  
