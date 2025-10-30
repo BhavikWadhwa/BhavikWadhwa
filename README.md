@@ -1,69 +1,68 @@
-<h2 align="center">👋 Hi, I'm Bhavik Developer & AI Enthusiast</h2>
-
-CIS student @ University of the Fraser Valley | Dean’s List  
-Machine Learning enthusiast — inspired by real sports performance & live analytics  
-Building a Raspberry Pi voice assistant (Jarvis) from scratch  
-Passionate about full-stack development and applied AI  
-Always learning, always building
-
-## Current Focus
-• Expanding my Raspberry Pi assistant (Jarvis) with automation + local memory  
-• Experimenting with LangChain + vector DBs  
-• Improving prediction models for sports performance
-
-
----
-
-###  Featured Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-|  **Soccer Analytics v2** | Python, scikit-learn | Random Forest model predicting match outcomes using Canada West data |
-|  **Soccer Analytics v1** | Python, Logistic Regression | Team & opponent form feature engineering |
-|  **Jarvis-AI** | Raspberry Pi, LangChain, OpenAI, FastAPI | Voice-controlled AI assistant with future automation via GPIO |
-|  **3D Developer Portfolio** | React Three Fiber | Interactive 3D portfolio to highlight development work |
-|  **Mini-Notion App** | FastAPI, SQLite | CRUD app with authentication & data persistence |
-
-
-🔗 More projects: github.com/bhavikwadhwa
-
----
-
-###  Tech Toolbox
-
-**Languages:** Python, JavaScript, SQL, HTML/CSS  
-**AI Tools:** Pandas, NumPy, Scikit-learn, LangChain, ChromaDB  
-**Frameworks:** FastAPI, React.js, Framer Motion  
-**Dev Tools:** Docker, Git, Linux (Raspberry Pi OS)  
-**Cloud Experience:** Azure (fundamentals)
-
-###  Tech Toolbox
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
-</p>
-
----
-
-###  GitHub Stats
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavikwadhwa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikwadhwa&layout=compact&theme=tokyonight" height="160"/>
+  <img src="BANNER_URL_HERE" width="100%" alt="Bhavik Wadhwa Banner"/>
 </p>
 
+<h2 align="center">👋 Hi, I'm Bhavik</h2>
+<p align="center"><strong>Machine Learning & Software Developer</strong></p>
 
 ---
 
-### 📫 Let's Connect
+### Building Intelligent, Real World Systems
 
-🔗 LinkedIn: linkedin.com/in/bhavik  
-📧 Email: bhavik.wadhwa@ufv.ca  
+I love creating technology that **thinks, responds, and interacts** with the world.
+
+Right now, I’m focused on:
+- 🧠 Machine learning for sports analytics
+- 🗣️ Local voice automation with Raspberry Pi (Jarvis-AI)
+- 🎮 Interactive UI systems (Godot + FastAPI)
+
+My journey into AI started while working as a **Soccer Statistician**, watching matches live, entering player metrics in real-time, and seeing patterns unfold.  
+I wanted to know if machines could learn them too. That curiosity drives every project I build.
+
+---
+
+### 🔧 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|-----|
+| **Jarvis-AI** | Local voice assistant with modular automation + future memory using embeddings | Raspberry Pi, FastAPI, LangChain, OpenAI, ChromaDB |
+| **Soccer Analytics v2** | Performance-driven model using engineered stats + rolling averages | Python, Pandas, scikit-learn, joblib |
+| **Godot Map-Track** | Camera tracking + dynamic UI for gameplay visualization | Godot, GDScript |
+| **3D Developer Portfolio** | Interactive 3D experience showcasing my work | React-Three-Fiber, Framer Motion |
+
+Explore my work:  
+https://github.com/BhavikWadhwa?tab=repositories
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages** — Python, JavaScript, SQL  
+**Machine Learning** — pandas, NumPy, scikit-learn  
+**Backend** — FastAPI, REST APIs  
+**Frontend** — React.js, Godot UI  
+**Systems** — Linux, Docker, Git  
+**Cloud & DevOps** — Azure fundamentals (learning), CI/CD basics  
+
+---
+
+### 💡 What I Believe In
+
+- Build for real use cases  
+- Iterate fast — ship > perfect  
+- Clear documentation = future clarity  
+- Learn by doing  
+- Technology should feel useful, not complicated  
+
+---
+
+### 📫 Contact
+
+📧 **Email:** bhavik.wadhwa@ufv.ca  
+🔗 **LinkedIn:** www.linkedin.com/in/bhavikwadhwa  
+
+---
+
+> Always building. Always improving.  
+> If you’re working on something involving **AI, automation, or data**, let’s talk.
