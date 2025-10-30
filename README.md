@@ -77,6 +77,14 @@ https://github.com/BhavikWadhwa?tab=repositories
 ![VSCode](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visualstudiocode&logoColor=39FF14)
 
 ---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavikwadhwa&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikwadhwa&layout=compact&theme=react" height="160"/>
+</p>
+
+---
 
 
 
