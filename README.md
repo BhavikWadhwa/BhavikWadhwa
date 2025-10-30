@@ -1,9 +1,6 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="BANNER_URL_HERE" width="100%" alt="Bhavik Wadhwa Banner"/>
-</p>
 
-<h2 align="center">👋 Hi, I'm Bhavik</h2>
+
+<h2 align="center">Hi, I'm Bhavik</h2>
 <p align="center"><strong>Machine Learning & Software Developer</strong></p>
 
 ---
@@ -13,16 +10,16 @@
 I love creating technology that **thinks, responds, and interacts** with the world.
 
 Right now, I’m focused on:
-- 🧠 Machine learning for sports analytics
-- 🗣️ Local voice automation with Raspberry Pi (Jarvis-AI)
-- 🎮 Interactive UI systems (Godot + FastAPI)
+- Machine learning for sports analytics
+- Local voice automation with Raspberry Pi (Jarvis-AI)
+- Interactive UI systems (Godot + FastAPI)
 
 My journey into AI started while working as a **Soccer Statistician**, watching matches live, entering player metrics in real-time, and seeing patterns unfold.  
 I wanted to know if machines could learn them too. That curiosity drives every project I build.
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|-----|
@@ -36,7 +33,7 @@ https://github.com/BhavikWadhwa?tab=repositories
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages** — Python, JavaScript, SQL  
 **Machine Learning** — pandas, NumPy, scikit-learn  
@@ -81,20 +78,5 @@ https://github.com/BhavikWadhwa?tab=repositories
 
 ---
 
-### 💡 What I Believe In
 
-- Build for real use cases  
-- Iterate fast — ship > perfect  
-- Clear documentation = future clarity  
-- Learn by doing  
-- Technology should feel useful, not complicated  
-
----
-
-### 📫 Contact
-
-📧 **Email:** bhavik.wadhwa@ufv.ca  
-🔗 **LinkedIn:** www.linkedin.com/in/bhavikwadhwa  
-
----
 
