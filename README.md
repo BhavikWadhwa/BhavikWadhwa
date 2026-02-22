@@ -11,7 +11,7 @@ I love creating technology that **thinks, responds, and interacts** with the wor
 
 Right now, I’m focused on:
 - Machine learning for sports analytics
-- Local voice automation with Raspberry Pi (Jarvis-AI)
+- Local voice automation with Raspberry Pi 
 - Interactive UI systems (Godot + FastAPI)
 
 My journey into AI started while working as a **Soccer Statistician**, watching matches live, entering player metrics in real-time, and seeing patterns unfold.  
