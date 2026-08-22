@@ -1,5 +1,5 @@
 <h1 align="center">Bhavik Wadhwa</h1>
-<p align="center"><strong>Full-stack developer building useful, production-minded software.</strong></p>
+<p align="center"><strong>Full-stack developer building useful, production minded software.</strong></p>
 
 <p align="center">
   <a href="https://3d-app-iota.vercel.app">Portfolio</a> ·
@@ -7,7 +7,7 @@
   <a href="mailto:bhavikwadhwa1312@gmail.com">Email</a>
 </p>
 
-I turn real problems into complete web products—from the interface and API to data models, background jobs, testing, containers, and deployment. My recent work spans workflow automation, personalized news, interactive 3D experiences, and sports analytics.
+I turn real problems into complete web products from the interface and API to data models, background jobs, testing, containers, and deployment. My recent work spans workflow automation, personalized news, interactive 3D experiences, and sports analytics.
 
 I care about systems that are clear to use, resilient in practice, and honest about their tradeoffs.
 
