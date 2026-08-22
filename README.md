@@ -1,90 +1,59 @@
-
-
-<h2 align="center">Hi, I'm Bhavik</h2>
-<p align="center"><strong>Machine Learning & Software Developer</strong></p>
-
----
-
-### Building Intelligent, Real World Systems
-
-I love creating technology that **thinks, responds, and interacts** with the world.
-
-Right now, I’m focused on:
-- Machine learning for sports analytics
-- Local voice automation with Raspberry Pi 
-- Interactive UI systems (Godot + FastAPI)
-
-My journey into AI started while working as a **Soccer Statistician**, watching matches live, entering player metrics in real-time, and seeing patterns unfold.  
-I wanted to know if machines could learn them too. That curiosity drives every project I build.
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|-----|
-| **Jarvis-AI** | Local voice assistant with modular automation + future memory using embeddings | Raspberry Pi, FastAPI, LangChain, OpenAI, ChromaDB |
-| **Soccer Analytics v2** | Performance-driven model using engineered stats + rolling averages | Python, Pandas, scikit-learn, joblib |
-| **Godot Map-Track** | Camera tracking + dynamic UI for gameplay visualization | Godot, GDScript |
-| **3D Developer Portfolio** | Interactive 3D experience showcasing my work | React-Three-Fiber, Framer Motion |
-
-Explore my work:  
-https://github.com/BhavikWadhwa?tab=repositories
-
----
-
-### Tech Stack
-
-**Languages**: Python, JavaScript, SQL  
-**Machine Learning**: pandas, NumPy, scikit-learn  
-**Backend**: FastAPI, REST APIs  
-**Frontend**: React.js, Godot UI  
-**Systems**: Linux, Docker, Git  
-**Cloud & DevOps**: Azure fundamentals (learning), CI/CD basics  
-
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql&logoColor=39FF14)
-
-**Machine Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat&logo=scikitlearn&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas&logoColor=39FF14)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy&logoColor=39FF14)
-![Random Forest](https://img.shields.io/badge/Random_Forest-39FF14?style=flat&logoColor=111111)
-
-**Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=39FF14)
-![REST APIs](https://img.shields.io/badge/REST-111111?style=flat&logo=api&logoColor=39FF14)
-
-**Frontend & UI**
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=39FF14)
-![Godot](https://img.shields.io/badge/Godot-111111?style=flat&logo=godotengine&logoColor=39FF14)
-
-**Hosting & Deployment**
-![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat&logo=netlify&logoColor=39FF14)
-
-**Data & Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat&logo=powerbi&logoColor=39FF14)
-
-**Systems & Tools**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111111?style=flat&logo=raspberrypi&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=39FF14)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visualstudiocode&logoColor=39FF14)
-
----
-### GitHub Stats
+<h1 align="center">Bhavik Wadhwa</h1>
+<p align="center"><strong>Full-stack developer building useful, production-minded software.</strong></p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikwadhwa&layout=compact&theme=react" height="160"/>
+  <a href="https://3d-app-iota.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/BhavikWadhwa?tab=repositories">Projects</a> ·
+  <a href="mailto:bhavikwadhwa1312@gmail.com">Email</a>
 </p>
 
----
+I turn real problems into complete web products—from the interface and API to data models, background jobs, testing, containers, and deployment. My recent work spans workflow automation, personalized news, interactive 3D experiences, and sports analytics.
 
+I care about systems that are clear to use, resilient in practice, and honest about their tradeoffs.
 
+## Selected work
 
+### [NorthBrief](https://github.com/BhavikWadhwa/NorthBrief) · [Live app](https://northbrief-web-bhavik.onrender.com)
+
+A Canada-first news briefing platform that brings regional, national, financial, and global reporting into one personalized feed while keeping every story linked to its original publisher.
+
+- Ingests 28 RSS and official public feeds with parallel fetching, retries, timeouts, deduplication, and source-level failure isolation
+- Ranks stories using location, interests, freshness, regional relevance, and source variety
+- Supports authentication, preferences, bookmarks, admin controls, migrations, and configurable summary providers
+- Built with **Next.js, React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Docker, and Render**
+
+### [AutoFlow](https://github.com/BhavikWadhwa/autoflow) · [Live app](https://autoflow-web.onrender.com)
+
+A visual workflow automation platform inspired by tools such as n8n and Zapier. Users can build workflows on a node canvas, validate them, run supported steps, and inspect execution history and logs.
+
+- Implements graph validation for cycles, connectivity, node configuration, and trigger rules
+- Persists workflow definitions and execution records in PostgreSQL/JSONB
+- Includes migrations, transactional integration tests, Docker-based development, CI, and infrastructure-as-code deployment
+- Built with **React, TypeScript, React Flow, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, and GitHub Actions**
+
+### [Interactive 3D Portfolio](https://github.com/BhavikWadhwa/3d-app) · [Live site](https://3d-app-iota.vercel.app)
+
+A responsive portfolio experience combining reusable React components, browser-rendered 3D scenes, animated transitions, project storytelling, and a resilient contact flow.
+
+- Built with **React, Three.js, React Three Fiber, Framer Motion, Tailwind CSS, and Vite**
+
+### [Football Analytics](https://github.com/BhavikWadhwa/Football-analytics-ml-V2) · [Live app](https://football-analytics-ml-v2.streamlit.app)
+
+An end-to-end Canada West soccer analytics platform covering more than 500 matches across three seasons. It combines data collection, feature engineering, match prediction, and interactive lineup-swap analysis.
+
+- Built with **Python, Pandas, scikit-learn, Streamlit, Plotly, and BeautifulSoup**
+
+## What I build with
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js
+- **Backend:** Python, FastAPI, REST APIs, SQLAlchemy, Alembic, JWT
+- **Data:** PostgreSQL, SQL, Pandas, scikit-learn
+- **Delivery:** Docker, GitHub Actions, Render, Vercel, Git
+
+## Currently
+
+- Building end-to-end products with strong frontend, backend, and data foundations
+- Deepening my work in workflow automation, business systems, and reliable deployments
+- Open to software development, technical operations, product operations, and technology consulting opportunities
+
+If you are building a practical product or improving a messy workflow, I would be glad to talk.
